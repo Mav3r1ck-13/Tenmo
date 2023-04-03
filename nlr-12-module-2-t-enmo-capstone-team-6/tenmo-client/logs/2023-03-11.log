@@ -1,0 +1,7 @@
+2023-03-11T22:55:41.9629051 500 : [{"timestamp":"2023-03-12T03:55:41.945+00:00","status":500,"error":"Internal Server Error","message":"Invalid column name; nested exception is java.sql.SQLException: Invalid column name","path":"/account/balance"}]
+2023-03-11T22:55:51.9588781 500 : [{"timestamp":"2023-03-12T03:55:51.957+00:00","status":500,"error":"Internal Server Error","message":"Invalid column name; nested exception is java.sql.SQLException: Invalid column name","path":"/account/balance"}]
+2023-03-11T22:56:17.9406585 500 : [{"timestamp":"2023-03-12T03:56:17.927+00:00","status":500,"error":"Internal Server Error","message":"Invalid column name; nested exception is java.sql.SQLException: Invalid column name","path":"/account/balance"}]
+2023-03-11T22:56:46.1919051 401 : [no body]
+2023-03-11T22:56:52.2160737 500 : [{"timestamp":"2023-03-12T03:56:52.213+00:00","status":500,"error":"Internal Server Error","message":"Invalid column name; nested exception is java.sql.SQLException: Invalid column name","path":"/account/balance"}]
+2023-03-11T22:57:44.7689425 404 : [{"timestamp":"2023-03-12T03:57:44.754+00:00","status":404,"error":"Not Found","message":"No message available","path":"/account"}]
+2023-03-11T22:59:38.1946947 500 : [{"timestamp":"2023-03-12T03:59:38.177+00:00","status":500,"error":"Internal Server Error","message":"Invalid column name; nested exception is java.sql.SQLException: Invalid column name","path":"/account/balance"}]
